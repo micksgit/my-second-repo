@@ -1,2 +1,2 @@
-# my-second-repo minor update.!
+# my-second-repo
 Practice for GIt
